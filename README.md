@@ -53,12 +53,12 @@ Turn four years of raw transactional data into a decision-ready Excel dashboard 
 ### 1. Time Analysis Dashboard
 KPI comparisons vs. prior year, monthly/quarterly/weekday profit trends, and country/month filtering.
 
-![Time Analysis Dashboard](assets/screenshots/time-analysis-dashboard.png)
+![Time Analysis Dashboard](assests/screenshots/time-analysis-dashboard.png)
 
 ### 2. Detail Dashboard
 Top profitable products and customers, profit by gender/age/color/pricing type, and a country-wise profit map.
 
-![Detail Dashboard](assets/screenshots/detail-dashboard.png)
+![Detail Dashboard](assests/screenshots/detail-dashboard.png)
 
 ## 💡 Key Insights
 *(Fill in 3–5 bullet insights once the analysis is finalized — these are the lines recruiters actually read. Examples of the kind of insight to add:)*
