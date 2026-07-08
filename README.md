@@ -112,4 +112,5 @@ adventure-works-sales-analysis/
 4. Switch between **Time Analysis** and **Detail Dashboard** using the navigation buttons
 
 ## 📬 Contact
-*(Add your name, LinkedIn, and email/portfolio link here)*
+GitHub - https://github.com/Practicecomer
+LinkedIn - https://www.linkedin.com/in/shivang-dube-98a7601b8/
